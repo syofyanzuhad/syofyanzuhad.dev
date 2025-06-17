@@ -1,15 +1,22 @@
 /rss https://syofyanzuhad.dev/feed.xml 301
 /blog https://syofyanzuhad.dev/posts 301
 
-/github https://github.com/syofyanzuhad 301
-/gh https://github.com/syofyanzuhad 301
-/twitter https://twitter.com/syofyan_zuhad 301
 /sponsor https://github.com/sponsors/syofyanzuhad 301
 /support https://github.com/sponsors/syofyanzuhad 301
-/mas https://elk.zone/m.webtoo.ls/@antfu@m.webtoo.ls 301
-/mastodon https://elk.zone/m.webtoo.ls/@antfu@m.webtoo.ls 301
-/instagram https://instagram.com/syofyan_zuhad 301
+/mail https://mailto:mail@syofyanzuhad.dev 301
+/cv https://syofyanzuhad.dev/syofyan-zuhad.pdf 301
+/gh https://github.com/syofyanzuhad 301
+/github https://github.com/syofyanzuhad 301
+/tw https://twitter.com/syofyan_zuhad 301
+/twitter https://twitter.com/syofyan_zuhad 301
 /ig https://instagram.com/syofyan_zuhad 301
+/instagram https://instagram.com/syofyan_zuhad 301
+/tg https://t.me/syofyan_zuhad 301
+/telegram https://t.me/syofyan_zuhad 301
+/md https://syofyanzuhad.medium.com 301
+/medium https://syofyanzuhad.medium.com 301
+/ld https://linkedin.com/in/syofyan-zuhad 301
+/linkedin https://linkedin.com/in/syofyan-zuhad 301
 
 /talks/2020-09-26 https://github.com/antfu/talks/blob/main/2020-09-26/2020-09-26-binfe-antfu-zh_CN.pdf?raw=true 302
 /talks/2020-09-26/en https://github.com/antfu/talks/blob/main/2020-09-26/2020-09-26-binfe-antfu-en.pdf?raw=true 302
