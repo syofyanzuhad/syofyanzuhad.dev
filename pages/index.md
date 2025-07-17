@@ -8,8 +8,8 @@ art: random
 Hey! I'm Syofyan Zuhad, a fanatical open sourceror and web artisan.
 
 Currently working as a <a href="//linkedin.com/in/syofyan-zuhad" target="_blank">Freelancer</a><br>
-Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
-Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
+Working with <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
+Maintaining <a href="//uptime.syofyanzuhad.dev" target="_blank">Uptime Kita</a>, <a href="//katla.syofyanzuhad.dev" target="_blank">Katla</a>, <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help me and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
