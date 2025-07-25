@@ -10,17 +10,20 @@ art: dots
 
 ## Hardware
 
-- Camera: ~~Nikon~~
-- Laptop: MacBook Pro 14' M2 8GB / ~~Thinkpad x230~~ / ~~Asus X553M~~
-- Phone: iPhone 13 128 GB / Redmi Note 10 5G (8 GB RAM, 128 GB Storage)
-- Mouse: ~~Keyboard Mouse Combo ROBOT KM3000~~
-- Keyboard: ~~Keyboard Mouse Combo ROBOT KM3000~~
-- Monitor: Lenovo L24m-4A
-- Chair: Fantech OCA-258
-- Table: Fantech WS311
-- Action Cam: Akaso V50
-- Watch: Amazfit Bip S
-- Speakers: -
+- 📸 Camera: ~~Nikon~~
+- 💻 Laptop: MacBook Pro 14' M2 8GB / ~~Thinkpad x230~~ / ~~Asus X553M~~
+- 🧑🏻‍💻 Operating System: macOS / iOS / android / ~~Ubuntu~~ / ~~Windows~~
+- 📱 Phone: iPhone 13 / Redmi Note 10 5G
+- 🖱️ Mouse: ~~Keyboard Mouse Combo ROBOT KM3000~~
+- ⌨️ Keyboard: ~~Keyboard Mouse Combo ROBOT KM3000~~
+- 🖥️ Monitor: Lenovo L24m-4A
+- 🪑 Chair: Fantech OCA-258
+- 🗒️ Table: Fantech WS311
+- 📹 Action Cam: Akaso V50
+- ⌚️ Watch: Amazfit Bip S
+- 🎧 Earphones: 
+- 🏍️ Vehicle: CS1 125cc / ~~suzuki smash~~
+- ⛑️ zeus Z3020 modular
 
 ### Live Streaming
 
@@ -30,7 +33,7 @@ art: dots
 
 ### Gaming
 
--
+- 🎮 [katla](https://katla.syofyanzuhad.dev)
 
 ## Development
 
