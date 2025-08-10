@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://opencollective.com/antfu"
+    href="https://www.buymeacoffee.com/syofyanzuhad"
     target="_blank"
     class="group btn-rose text-base p2 px3 pr2"
   >
@@ -9,6 +9,6 @@
       group-hover="i-ph-hand-heart-fill text-rose"
       transition-all duration-200 ease-out
     />
-    Sponsor the Ecosystem
+    Buy me a coffee
   </a>
 </template>

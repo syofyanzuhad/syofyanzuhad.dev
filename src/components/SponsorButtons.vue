@@ -4,12 +4,12 @@
     consider sponsor me and the ecosystem to help Open Source sustainable. Thank you!
   </p>
 
-  <!-- <p flex="~ gap-2 wrap items-center">
+  <p flex="~ gap-2 wrap items-center">
     <SponsorButtonCollective />
-    <span op50 text-sm>
+    <!-- <span op50 text-sm>
       <a href="/posts/sponsorship-forwarding" target="_blank">How does this work?</a>
-    </span>
-  </p> -->
+    </span> -->
+  </p>
   <p flex="~ gap-2 wrap">
     <a
       href="https://github.com/sponsors/syofyanzuhad"
