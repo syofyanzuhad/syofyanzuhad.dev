@@ -30,7 +30,7 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
-        <RouterLink to="/posts" title="Blog">
+        <RouterLink to="/blog" title="Blog">
           <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line md:hidden />
         </RouterLink>
@@ -38,22 +38,22 @@ const { y: scroll } = useWindowScroll()
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-lightbulb-line class="md:hidden" />
         </RouterLink>
-        <RouterLink to="/talks" class="lt-md:hidden" title="Talks">
-          Talks
+        <RouterLink to="/uses" title="uses">
+          <div i-ri-tools-line />
+        </RouterLink>
+        <RouterLink to="/photos" title="Photos">
+          <div i-ri-camera-3-line />
         </RouterLink>
         <RouterLink to="/sponsors-list" title="Sponsors">
           <span class="lt-md:hidden">Sponsors</span>
           <div i-ri-heart-line class="md:hidden" />
         </RouterLink>
+        <!-- <RouterLink to="/talks" class="lt-md:hidden" title="Talks">
+          Talks
+        </RouterLink>
         <RouterLink to="/podcasts" class="lt-md:hidden" title="Podcasts">
           <div i-ri-mic-line />
-        </RouterLink>
-        <RouterLink to="/photos" title="Photos">
-          <div i-ri-camera-3-line />
-        </RouterLink>
-        <RouterLink to="/uses" title="uses">
-          <div i-ri-tools-line />
-        </RouterLink>
+        </RouterLink> -->
         <!-- <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
         </RouterLink> -->
