@@ -1,5 +1,6 @@
 /rss https://syofyanzuhad.dev/feed.xml 301
 /blogs https://syofyanzuhad.medium.com/ 301
+/uptime/* https://uptime.syofyanzuhad.dev/m/:splat 302
 
 /sponsor https://github.com/sponsors/syofyanzuhad 301
 /support https://github.com/sponsors/syofyanzuhad 301
