@@ -129,7 +129,11 @@ function getGroupName(p: Post) {
                 {{ formatDate(route.date, true) }}
               </span>
               <span v-if="route.duration" text-sm op40 ws-nowrap>· {{ route.duration }}</span>
-              <span v-if="route.platform" text-sm op40 ws-nowrap>· {{ route.platform }}</span>
+              <span
+                v-if="route.platform"
+                align-middle flex-none
+                class="text-xs bg-green:15 text-green5 rounded px-1 py-0.5"
+              >{{ route.platform }}</span>
               <span v-if="route.place" text-sm op40 ws-nowrap md:hidden>· {{ route.place }}</span>
               <span
                 v-if="route.lang === 'zh'"
@@ -145,6 +149,9 @@ function getGroupName(p: Post) {
           </li>
           <div v-if="route.place" op50 text-sm hidden mt--2 md:block>
             {{ route.place }}
+          </div>
+          <div v-if="route.desc" op50 text-sm mt-1 leading-relaxed>
+            {{ route.desc }}
           </div>
         </component>
       </div>
