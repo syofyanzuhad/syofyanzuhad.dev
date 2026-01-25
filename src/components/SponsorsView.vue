@@ -15,6 +15,6 @@ const showCircle = ref(true)
     </button>
   </div>
 
-  <SponsorsCircles v-if="showCircle" />
-  <SponsorsTiers v-else h-auto max-w-250 w-full mx-auto />
+  <!-- <SponsorsCircles v-if="showCircle" />
+  <SponsorsTiers v-else h-auto max-w-250 w-full mx-auto /> -->
 </template>
