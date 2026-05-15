@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://www.buymeacoffee.com/syofyanzuhad"
+    href="https://ko-fi.com/syofyanzuhad"
     target="_blank"
     class="group btn-rose text-base p2 px3 pr2"
   >
@@ -9,6 +9,6 @@
       group-hover="i-ph-hand-heart-fill text-rose"
       transition-all duration-200 ease-out
     />
-    Buy me a coffee
+    Buy me a coffee (ko-fi)
   </a>
 </template>
