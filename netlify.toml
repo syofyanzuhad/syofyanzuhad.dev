@@ -6,6 +6,12 @@ command = "pnpm run build"
 NODE_VERSION = "22"
 
 [[headers]]
+for = "/"
+
+[headers.values]
+Link = "</.well-known/api-catalog.json>; rel=\"api-catalog\"; type=\"application/linkset+json\", </feed.xml>; rel=\"alternate\"; type=\"application/rss+xml\"; title=\"Blog RSS feed\", </feed.json>; rel=\"alternate\"; type=\"application/feed+json\"; title=\"Blog JSON feed\""
+
+[[headers]]
 for = "/assets/*"
 
 [headers.values]

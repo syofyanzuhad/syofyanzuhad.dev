@@ -1,0 +1,31 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://syofyanzuhad.dev/",
+      "href": "https://syofyanzuhad.dev/feed.xml",
+      "rel": [
+        "alternate"
+      ],
+      "type": "application/rss+xml",
+      "title": "Blog RSS feed"
+    },
+    {
+      "anchor": "https://syofyanzuhad.dev/",
+      "href": "https://syofyanzuhad.dev/feed.json",
+      "rel": [
+        "alternate"
+      ],
+      "type": "application/feed+json",
+      "title": "Blog JSON feed"
+    },
+    {
+      "anchor": "https://syofyanzuhad.dev/",
+      "href": "https://syofyanzuhad.dev/sitemap.xml",
+      "rel": [
+        "sitemap"
+      ],
+      "type": "application/xml",
+      "title": "Site sitemap"
+    }
+  ]
+}
