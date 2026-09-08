@@ -3,9 +3,9 @@ title: Podcasts - Syofyan Zuhad
 display: ''
 art: plum
 items:
-  - title: 'Exploring Vitesse with Syofyan Zuhad - Views on Vue #144'
-    date: '2021-03-02'
-    path: 'https://viewsonvue.com/144'
+  - title: 'AI for Career with Syofyan Zuhad -  Litstory'
+    date: '2026-07-11'
+    path: 'https://www.youtube.com/watch?v=Lu3oiBzoz5w'
 ---
 
 <SubNav />
